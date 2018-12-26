@@ -1,0 +1,211 @@
+/*
+
+[Theme Color Stylesheet]
+
+Project     : SMM24 - Multipurpose Social Media Management and Marketing HTML Template
+Author      : themelooks.com
+Author URI  : https://themeforest.net/user/themelooks
+
+*/
+
+/*------------------------------------*\
+    COLOR
+\*------------------------------------*/
+a:hover,
+a:focus,
+a.active,
+.bg--gradient-theme .btn-default:hover,
+.bg--gradient-theme .btn-default:focus,
+.bg--gradient-theme .btn-default.focus,
+.bg--gradient-theme .btn-default:active,
+.bg--gradient-theme .btn-default:active:hover,
+.bg--gradient-theme .btn-default:active:focus,
+.bg--gradient-theme .btn-default:active.focus,
+.bg--gradient-theme .btn-default.active,
+.bg--gradient-theme .btn-default.active:hover,
+.bg--gradient-theme .btn-default.active:focus,
+.bg--gradient-theme .btn-default.active.focus,
+.bg--gradient-theme .open > .dropdown-toggle.btn-default,
+.bg--gradient-theme .open > .dropdown-toggle.btn-default:hover,
+.bg--gradient-theme .open > .dropdown-toggle.btn-default:focus,
+.bg--gradient-theme .open > .dropdown-toggle.btn-default.focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li.active > a,
+.dropdown-menu > li.active > a:hover,
+.dropdown-menu > li.active > a:focus,
+.pagination > li:not(.disabled) > a.prev:hover,
+.pagination > li:not(.disabled) > a.next:hover,
+.pagination > li:not(.disabled) > a.prev:focus,
+.pagination > li:not(.disabled) > a.next:focus,
+.section--title p,
+.cart--widget .nav li .content p,
+.header--info strong,
+.header--nav-links > li > a:before,
+.header--nav-links > li.active > a,
+.header--nav-links > .megamenu > .dropdown-menu > .nav > li.active > a,
+.header--buttons a span,
+.page-header--section .breadcrumb li.active,
+.gallery--filter-menu .nav li.active,
+.gallery-details--content .body ul li:before,
+.gallery-details--stats .item .content p,
+.pricing--item:hover .body .price .h2,
+.pricing--item.active .body .price .h2,
+.pricing-table--item .header .h2,
+.pricing-table--item .features .nav > li > .fa,
+.product--item .info .price,
+.product--item .info .rating,
+.product-single--summery .meta .rating,
+.product-single--summery .price,
+.checkout--info .title .fa,
+.checkout--info .title a:hover,
+.checkout--info .title a.active,
+.checkout--order-info .panel-group .panel-title label,
+.comment--item .content .header .rating .fa,
+.comment--form .rating .br-widget a:after,
+.testimonial--item .header .info .rating,
+.counter--item .title,
+.subscribe--form .input-group-btn button,
+.links--widget .nav li:before,
+.contact--widget .nav > li > span,
+.coming-soon--content .footer p a,
+.comin-soon--subscribe .info p strong,
+.f0f--content .title .h3 strong,
+.footer--copyright p a {
+    color: #00b249;
+}
+
+/*------------------------------------*\
+    BACKGROUND COLOR
+\*------------------------------------*/
+#preloader,
+.btn-default:hover,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:active:hover,
+.btn-default:active:focus,
+.btn-default:active.focus,
+.btn-default.active,
+.btn-default.active:hover,
+.btn-default.active:focus,
+.btn-default.active.focus,
+.open > .dropdown-toggle.btn-default,
+.open > .dropdown-toggle.btn-default:hover,
+.open > .dropdown-toggle.btn-default:focus,
+.open > .dropdown-toggle.btn-default.focus,
+.pagination > li > a:hover,
+.pagination > li > a:focus,
+.pagination > li.active > a,
+.pagination > li.active > a:hover,
+.pagination > li.active > a:focus,
+.pagination > li > span:hover,
+.pagination > li > span:focus,
+.pagination > li.active > span,
+.pagination > li.active > span:hover,
+.pagination > li.active > span:focus,
+.section--title:before,
+.sidebar--widget .links--widget .nav li:hover:before,
+.header--navbar .navbar-toggle,
+.service-details--tab-nav .title .h3,
+.service-details--tab-nav .nav li a:hover,
+.service-details--tab-nav .nav li.active a,
+.sidebar--widget .widget--title .h4:before,
+.gallery-details--content .title .h3:before,
+.pricing--item:hover .header,
+.pricing--item.active .header,
+.pricing-table--item .features .nav > li.hovered,
+.product--item .img .ribbon,
+.product--item .img .quick-view-btn:hover,
+.product--item .info .buttons a:hover,
+.product-single--tabs .nav-tabs > li > .btn:hover,
+.product-single--tabs .nav-tabs > li > .btn:focus,
+.product-single--tabs .nav-tabs > li.active > .btn,
+.checkout--billing-info .title .h4:before,
+.comment--title:before,
+.comment--item .content .header .repty-btn:hover,
+.comment--item .content .header .repty-btn:focus,
+.testimonial--slider .owl-dots > div.active,
+.team--member:hover .info,
+.contact-info--item .title .h4:before,
+.coming-soon--content .title .h1:before,
+.comin-soon--subscribe .title .h3:before {
+    background-color: #00b249;
+}
+
+::-moz-selection {
+    background-color: #00b249;
+}
+
+::selection {
+    background-color: #00b249;
+}
+
+.bg--gradient-theme:before {
+    background: #00b249;
+    background: -webkit-linear-gradient(left, #00b249 0%, #42bc74 100%);
+    background: linear-gradient(to right, #00b249 0%, #42bc74 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b249', endColorstr='#42bc74', GradientType=1 );
+}
+
+/*------------------------------------*\
+    BORDER COLOR
+\*------------------------------------*/
+.form-control:focus,
+.btn-default,
+.btn-default:hover,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:active:hover,
+.btn-default:active:focus,
+.btn-default:active.focus,
+.btn-default.active,
+.btn-default.active:hover,
+.btn-default.active:focus,
+.btn-default.active.focus,
+.open > .dropdown-toggle.btn-default,
+.open > .dropdown-toggle.btn-default:hover,
+.open > .dropdown-toggle.btn-default:focus,
+.open > .dropdown-toggle.btn-default.focus,
+.pagination > li > a,
+.pagination > li > span,
+.pagination > li > a:hover,
+.pagination > li > a:focus,
+.pagination > li.active > a,
+.pagination > li.active > a:hover,
+.pagination > li.active > a:focus,
+.pagination > li > span:hover,
+.pagination > li > span:focus,
+.pagination > li.active > span,
+.pagination > li.active > span:hover,
+.pagination > li.active > span:focus,
+.cart--widget .nav li .img a:hover,
+.header--navbar .navbar-toggle,
+.gallery-details--stats .item .content p,
+.product--item .img .quick-view-btn,
+.product--item .info .buttons a,
+.product--quantity .ui-spinner,
+.product-single--tabs .nav-tabs > li > .btn,
+.product-single--tabs .nav-tabs > li > .btn:hover,
+.product-single--tabs .nav-tabs > li > .btn:focus,
+.product-single--tabs .nav-tabs > li.active > .btn,
+.cart--items .table tbody tr:hover td img,
+.cart--total .title .h4:before,
+.comment--item .content .header .repty-btn:hover,
+.comment--item .content .header .repty-btn:focus,
+.team--member:hover .info,
+.counter--item .title,
+.coming-soon--content .counters ul li:before,
+.comin-soon--subscribe .form .form-control:focus,
+.f0f--content .search--widget .form-control:focus {
+    border-color: #00b249;
+}
+
+.coming-soon--content .counters ul li:after {
+    border-top-color: #00b249;
+}
+
+.product--item .img .ribbon:before {
+    border-top-color: #00963e;
+}
