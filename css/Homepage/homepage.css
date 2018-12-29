@@ -6,3 +6,12 @@
     width: 95%;
     margin: 0 auto;
 } */
+
+.Banner_Custom{
+  background-image: url(../../img/banner-img/banner_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.banner--item{
+  background-color: rgba(0,0,0,0.7);
+}
